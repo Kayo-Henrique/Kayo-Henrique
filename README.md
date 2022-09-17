@@ -32,3 +32,16 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 ## ⚙️ &nbsp;GitHub Analytics
+
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kayo-henrique&show_icons=true&theme=radical">
+
+
+
+
+
+
+
+
+
+
