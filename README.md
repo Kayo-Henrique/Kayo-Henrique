@@ -27,3 +27,8 @@ src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img align="center" alt="" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </div>
+
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+
+## ⚙️ &nbsp;GitHub Analytics
