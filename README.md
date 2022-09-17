@@ -34,7 +34,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ## ⚙️ &nbsp;GitHub Analytics
 
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kayo-henrique&show_icons=true&theme=radical">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kayo-henrique&show_icons=true&theme=dark">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayo-henrique&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
 
 
