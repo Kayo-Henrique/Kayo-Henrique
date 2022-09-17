@@ -28,14 +28,13 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 <img align="center" alt="" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </div>
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kayo-henrique&show_icons=true&theme=dark">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayo-henrique&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayo-henrique&layout=compact&theme=dark" alt="KayoSilva19's most languages"/>
 
 
 
