@@ -35,7 +35,7 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Kayo-henrique&show_icons=true&theme=radical">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kayo-henrique">
+<img width="530em" src=""https://github-readme-stats.vercel.app/api/pin/?username=Kayo-henrique&repo=convoychat">
 
 
 
